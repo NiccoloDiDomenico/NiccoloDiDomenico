@@ -8,8 +8,8 @@ I completed an intensive Full Stack Web Development program at Boolean, where I 
 
 ## 💼 Tech I Use
 **Front-end:** React, TypeScript, JavaScript, Vite  
-**Back-end:** Node.js, Express  
-**Database:** MySQL  
+**Back-end:** Node.js, Express
+**Database:** MySQL, Postgres, Prisma
 **Other:** REST APIs, Git, Bootstrap, TailwindCSS
 
 ---
