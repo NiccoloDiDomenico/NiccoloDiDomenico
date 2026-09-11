@@ -1,17 +1,18 @@
 # Niccolò Di Domenico
 
-Junior Full-Stack Developer at assist-x  
+Front End Developer 
 Building clean interfaces and scalable systems.
 
 ---
 
 ## Stack
 
-**Frontend:** React • TypeScript • Vite  
-**Backend:** Node.js • Express • Prisma  
-**Database:** MySQL • PostgreSQL  
-**Styling:** TailwindCSS • Bootstrap  
-**Tools:** Git • GitHub • Docker
+**Frontend:** React • TypeScript • HTML • CSS • Vite  
+**Backend:** Node.js • Express
+**Database:** MySQL • PostgreSQL • Prisma 
+**Styling:** TailwindCSS • Bootstrap • Figma
+**Tools:** Git • GitHub • Docker 
+**AI:** Claude Code • Claude Design • NotebookLM
 
 ---
 
